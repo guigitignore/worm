@@ -27,3 +27,5 @@ You can use `make` to compile the program: `make build`
 Using commandline: `gcc -O3 -Wall -W -Wstrict-prototypes -Werror worm.c -o worm`
 
 ## Running
+
+`make run` or `./worm`

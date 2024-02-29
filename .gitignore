@@ -1,0 +1,6 @@
+**/*.txt
+**/.noworm
+**/id_vb_key*
+worm
+.vagrant
+.vscode
